@@ -1,7 +1,6 @@
 **About me**
 
-**Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs. I only apply to areas of interest and i write and code myself. Prior to 2022, all the code I wrote was internally hosted by the research institutions/universities.** 
-[**Curriculum Vitae/Past Employers References**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
+**Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs. [**Curriculum Vitae/Past Employers References**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
 <p align = "justify">
 
