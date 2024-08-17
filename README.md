@@ -2,6 +2,8 @@
 
 **Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.** [**Curriculum Vitae/Past Employers References**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
+**Previous repository [gauravcodepro](https://github.com/codecreatede), which i am migrating here this week for better code development and objectives.**
+
 **Brief Introduction:**
 
 - I have a background in bioinformatics and plant biology and extensive experience in code development using several programming languages(prior to 2021 - C++, Bash, AWK, R - after 2021: Python, Ruby, Julia, Javascript, GO), data analysis and data science, machine and deep learning and web and application development. I am open to species analysis at the genome level and also to enhance the knowledge gain. I have expertise motivating individuals with various mindsets to strive toward their objectives and get the desired results. During my time conducting research, I developed the skills I would need as a future scientist, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn everything. My core teaching objective will be to help the students learn to actively think and pursue their independent thinking.
