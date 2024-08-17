@@ -1,8 +1,6 @@
 **About me**
 
-**Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs. [**Curriculum Vitae/Past Employers References**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
-
-<p align = "justify">
+**Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.** [**Curriculum Vitae/Past Employers References**](https://github.com/gauravcodepro/gauravcodepro/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
 **Brief Introduction:**
 
@@ -40,4 +38,3 @@
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
 - I am interested in all work and code related queries and position offers and not interested in anything else on this platform.
-
