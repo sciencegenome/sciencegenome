@@ -1,6 +1,6 @@
 **About me**
 
-* 🌍  I'm based in Germany
+* 🌍  I'm based in Germany/Deutschland
 * ✉️  You can contact me at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)
 * 🤝  I'm open to collaborating on Open to Scientist/Academic/Research/Collaboration.
 * I am not a freelancer. Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs
