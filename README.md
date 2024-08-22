@@ -6,9 +6,9 @@
 
 **Brief Introduction:**
 
-- I have a background in bioinformatics and plant biology and extensive experience in code development using several programming languages (prior to 2021 - C++, Bash, AWK, R - after 2021: Python, Ruby, Julia, Javascript, GO), data analysis and data science, machine and deep learning and web and application development. During my time conducting research, I developed the skills I would need as a future scientist, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply everything. 
+- I have a background in bioinformatics and plant biology and extensive experience in code development using programming languages **(prior to 2021 - C++, Bash, AWK, R - after 2021: Python, Ruby, Julia, Javascript, GO)**, data analysis and data science, machine and deep learning and web and application development. During my time conducting research, I developed the skills I would need as a future scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply everything. 
 
-- As I worked on these plant, bacterial and fungal species, I created new computational/bioinformatics analyses that helped identify the genes involved in abiotic and biotic interactions as well as unique genetic pathways that could help these species genetic breeding. In addition to developing bioinformatics to clarify functional genomics. I work from the bioinformatics to machine and deep learning, web and the application development with added skills of deployment using the devops makes me a versatile and an approachable candidate. This continuous increase in my abilities and my constant efforts to put results are a proof of itself that I am a person, who is result and goal oriented.
+- As I worked on these plant, bacterial and fungal species, I created new computational/bioinformatics analyses that helped identify the genes involved in abiotic and biotic interactions as well as unique genetic pathways. In addition, I work from bioinformatics to machine and deep learning, web and the application development and devops makes me a versatile and an approachable candidate. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.
 
 **Academic/Research:**
 - **2024 onwards:** I worked at Universitat Potsdam, Germany, where I am currently based and working on my code and approach development, submitting applications for position and self-learnt Julia, GO and Javascript, adding Java (if needed) and approaches for machine and deep learning. During this time, I benchmarked PacBioHifi genome analysis and also coded several approaches, packages, gems in Python, Ruby, Julia, GO.
@@ -20,7 +20,7 @@
 - **2011-2014:** I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes at Fondazione Edmund Mach, Italy. I analyzed and finished multiple RNA-seq and Organelle-Seq experiments for several plant species. I independently created international partnership to find and created computational methods for a number of crop species. Additionally i analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial metagenomics.
 
 **Areas of Interest:**
-- All code and ideas concieved and written by me unless specified. Proficient in solving limitations. I select and drop language as per the position, if position focussed on data analysis and deep learning, i drop DevOPs and if DevOPs then i keep only mainstream programming language.
+- All code and ideas concieved and written by me unless specified. Proficient in solving limitations. I select and drop language as per the position.
 - **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash, Python, R, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
@@ -42,4 +42,4 @@
 - I believe decisions and communication not made in time have no and importance.
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
-- I am interested in all work and code related queries and position offers and not interested in anything else on this platform.
+- I am interested in all work and code related queries and position offers.
