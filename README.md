@@ -1,14 +1,10 @@
 **About me**
 
-* 🌍 **I'm based in Germany/Deutschland.** ✉️ You can contact me at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) 🤝  I'm open to collaborating on Scientist/Academic/Research/Collaboration. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
-
-**Previous repository [gauravcodepro](https://github.com/gauravcodepro), which i am migrating here this week for better code development and objectives. Some links might be broken but will be active after the completion this week**
+**I'm based in Germany/Deutschland.** ✉️ You can contact me at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) 🤝  I'm open to collaborating on Scientist/Academic/Research. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
 **Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
 
-- I have a background in plant biology/bioinformatics, code **(prior to 2021 - C++, Bash, AWK, R - after 2021: Python, Ruby, Julia, Javascript, GO)**, data analysis and science, machine and deep learning and web and application development. I developed the skills I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt.
-
-- As I worked on these plant, bacterial and fungal species, I developed new computational/bioinformatics analyses that helped identify the genes involved in abiotic and biotic interactions as well as unique genetic pathways. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.
+- I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**. I developed the skills I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.
 
 **Academic/Research:**
 - **2024 onwards:** Universitat Potsdam, Germany, where I am currently based and working on my code development approaches, submitting applications for position and self-learnt Julia, GO and Javascript, and approaches for machine and deep learning. During this time, I benchmarked PacBioHifi genome analysis and also coded several approaches, packages, gems in Python, Ruby, Julia, GO.
@@ -17,7 +13,7 @@
 - **2017-2021:** Finnish Museum of Natural History and the University of Helsinki, Finland conducting research on genome bioinformatics and sequencing the genomes of lower plants, including *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, which involves pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. I worked on the genome assembly, genome annotation, chloroplast genomics. Additionally, during that tenure, I worked for various other organisations, collaborating with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the Ambrosia clade from Norway.
 - **2016-2017:** University of Connecticut, USA, where i analyzed the Douglas fir genome from the genome annotation to the phylogenomics and identifying genes and evolution of importance.
 - **2014–2016:** University of Technology, Sydney, Australia, where I developed computational methods for understanding seagrasses.
-- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. Additionally I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
+- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
 **Areas of Interest:**
 - All code and ideas concieved and written by me unless specified. Proficient in solving limitations. 
@@ -39,7 +35,7 @@
 - Extremely collaborative and I only supports those who support me.
 - Even AI prompt says ask me then i will tell, asking is the first way to initiate a open discussion/building relation.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- I believe decisions and communication not made in time have no and importance.
+- I believe decisions and communication not made have no and importance.
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
 - I am interested in all work and code related queries and position offers.
