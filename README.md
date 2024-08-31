@@ -1,13 +1,12 @@
 **About me**
 
-<<<<<<< HEAD
 **I'm based in Germany/Deutschland.** ✉️ You can contact me at [gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com) 🤝  I'm open to collaborating on Scientist/Academic/Research. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 =======
-* 🌍 **I'm based in Germany/Deutschland.** ✉️ You can contact me at **[gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)** 🤝  I'm open to collaborating on Scientist/Academic/Research/Collaboration. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
+**I'm based in Germany/Deutschland.** You can contact me at **[gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)** 🤝 I'm open to Scientist/Academics/Researcher. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
 **Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
 
-- I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**. I developed the skills I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.**At the level of DevOPS, i only work on what is listed in package/application development.**
+- I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**.**At the level of DevOPS, i only work on what is listed in package/application development.** I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.
 
 **Academic/Research:**
 - **2024 onwards:** Universitat Potsdam, Germany, where I am currently based and working on my code development approaches, submitting applications for position and self-learnt Julia, GO and Javascript, and approaches for machine and deep learning. During this time, I benchmarked PacBioHifi genome analysis and also coded several approaches, packages, gems in Python, Ruby, Julia, GO.
@@ -22,9 +21,9 @@
 - All code and ideas concieved and written by me unless specified. Proficient in solving limitations. 
 - **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash, Python, R, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM
-- **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
+- **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript.
 - **Application Development**: Electron(Javascript), PyQT(Python), Fyne(GO)
-- **Operating System**: Ubuntu, Manjaro, Neovim.
+- **Operating System**: Ubuntu, Manjaro, Neovim, Neovide.
 
 **Package/Application Development:**
 - [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/codecreatede/tairaccession) | [**Graphanalyzer**](https://github.com/codecreatede/graphanalyzer) | [**RNAprocessor**](https://github.com/codecreatede/rnaprocessor) | [**ProteinAnnotator**](https://github.com/codecreatede/protein-annotator) | [**Ontologyanalyzer**](https://github.com/codecreatede/ontologyanalyzer)
