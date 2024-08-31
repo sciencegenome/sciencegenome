@@ -24,6 +24,7 @@
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript
 - **Application Development**: Electron(Javascript), PyQT(Python), Fyne(GO)
+- **Operating System**: Ubuntu, Manjaro, Neovim.
 
 **Package/Application Development:**
 - [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/codecreatede/tairaccession) | [**Graphanalyzer**](https://github.com/codecreatede/graphanalyzer) | [**RNAprocessor**](https://github.com/codecreatede/rnaprocessor) | [**ProteinAnnotator**](https://github.com/codecreatede/protein-annotator) | [**Ontologyanalyzer**](https://github.com/codecreatede/ontologyanalyzer)
