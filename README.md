@@ -1,13 +1,13 @@
 **About me**
 
-**I'm based in Germany/Deutschland.** You can contact me at **[gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)** 🤝 I'm open to Scientist/Academics/Researcher. I am not a freelancer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
+**I'm based in Germany/Deutschland.** You can contact me at **[gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)** 🤝 I'm open to Scientist/Academics/Researcher. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014).
 
 **Getting to Know me ahead**
 - You can read this to understand how to avoid fake and how to invest in real people [**getting to know ahead**](https://drive.google.com/file/d/15Ws7Eez0DT4Usxz7hwSdS5fSPsoIISiz/view?usp=sharing)
 
 **Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
 
-- I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**.**At the level of DevOPS, i only work on what is listed in package/application development.** I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development.
+- I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**.**At the level of DevOPS, i only work on what is listed in package/application development.** I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development. I am not interested in cybersecurity, or other areas.
 
 **Academic/Research:**
 - **2024 onwards:** Universitat Potsdam, Germany, where I am currently based and working on my code development, submitting applications and self-learnt Julia, GO and Javascript and made complete web for previous project invoking javascript/HTML-CSS forms. During this time, I benchmarked PacBioHifi genome analysis with complete web-based real time monitoring, and coded several approaches, packages, gems in Python, Ruby, Julia, GO.
@@ -25,7 +25,7 @@
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript.
 - **Application Development**: Electron(Javascript), PyQT(Python), Fyne(GO)
 - **Operating System**: Ubuntu, Manjaro, Neovim, Neovide
-- **Terminal:** GPU based: Wezterm,tMUX,  **LocalDev**: Tabby, Warp. 
+- **Terminal:** GPU based: Wezterm,tMUX, Zellij for webassembly **LocalDev**: Tabby, Warp. 
 
 **Package/Application Development:**
 - [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/codecreatede/tairaccession) | [**Graphanalyzer**](https://github.com/codecreatede/graphanalyzer) | [**RNAprocessor**](https://github.com/codecreatede/rnaprocessor) | [**ProteinAnnotator**](https://github.com/codecreatede/protein-annotator) | [**Ontologyanalyzer**](https://github.com/codecreatede/ontologyanalyzer)
