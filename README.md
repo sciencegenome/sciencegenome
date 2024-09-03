@@ -42,5 +42,5 @@
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
 - I am very open to submitted applications and new positions and take active part in communication.
-- Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i am going to consider or give importance. 
+- Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i consider nor i give importance. 
 - If you have heard anything, make an approach to confirm with me, may be you have heard from wrong or false people. 
