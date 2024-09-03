@@ -43,4 +43,6 @@
 - I believe decisions and communication not made have no and importance.
 - I give importance and priority to the people I am working and communicating with.
 - I believe that who is showing results is not fake whereas who is only talking with no results is fake.
-- I am interested in all work and code related queries and position offers.
+- I am very open to submitted applications and new positions and take active part in communication.
+- Deciding my personal preferences/choices/likes/dislikes is not anyone business. 
+- If you have heard anything, make an approach to confirm with me, may be you have heard from wrong or false people. 
