@@ -26,13 +26,11 @@
 - **Terminal:** GPU based: Wezterm,tMUX, Zellij for webassembly **LocalDev**: Tabby, Warp. 
 
 **Package/Application Development:**
-- [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/codecreatede/tairaccession) | [**Graphanalyzer**](https://github.com/codecreatede/graphanalyzer) | [**RNAprocessor**](https://github.com/codecreatede/rnaprocessor) | [**ProteinAnnotator**](https://github.com/codecreatede/protein-annotator) | [**Ontologyanalyzer**](https://github.com/codecreatede/ontologyanalyzer)
+- [**Python Packages**](https://pypi.org/user/gauravcodepro/) | [**Python Community**](https://www.python.org/community/)  👉 [**Tairaccession**](https://github.com/codecreatede/tairaccession) 
 
 - [**Streamlit Applications**](https://streamlit.io/) | [**Streamlit Community**](https://discuss.streamlit.io/) 👉 [**Metabolic-analyzer**](https://github.com/codecreatede/BIGG-metabolic-analyzer-API) | [**Metabolic-json**](https://github.com/codecreatede/metabolic-json-modelling) | [**Ontology-graphs**](https://github.com/codecreatede/ontology-graphs) | [**Pacbiohifi**](https://github.com/codecreatede/pacbiohifi) | [**Slurm generator**](https://github.com/codecreatede/universitat-potsdam-devops-application)
 
 - [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) | [**Ruby app**](https://www.ruby-forum.com/) | [**Ruby Community**](https://www.ruby-forum.com/) 👉 [**Devopsutils**](https://github.com/codecreatede/devops-system-profiler) | [**Ruby-template**](https://github.com/codecreatede/ruby-gem-create) | [**Fasta-tokenizer**](https://github.com/codecreatede/pacbiohifi-motif-scanner) and [**Kmer-counter**](https://github.com/codecreatede/kmer-count) | [**Panacheextract**](https://rubygems.org/gems/panacheextract) | [**Protalign**](https://github.com/codecreate/proteinalignment-annotation-gem) and [**proteinmultialign**](https://github.com/codecreatede/protein-multialign-gem) | [**Pacbiohifi-analyzer**](https://github.com/codecreatede/pacbiohifi-analyzer)
-
-- **Electron Application** 👉 [**TAIR genome analysis**](https://github.com/codecreatede/arabidopsis-tair-application)
 
 **Work Attitude/Professionalism:**
 - Extremely collaborative and I only supports those who support me.
