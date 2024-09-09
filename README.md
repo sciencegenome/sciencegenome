@@ -21,7 +21,7 @@
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript.
 - **Application Development**: Electron(Javascript), PyQT(Python), Fyne(GO)
-- **Operating System**: Fedora, Mint, Neovim
+- **Operating System**: Fedora, Neovim
 - **Terminal:** GPU based: Wezterm,tMUX, Zellij, Tabby, Warp. 
 
 **Package/Application Development:**
