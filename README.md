@@ -1,6 +1,6 @@
 **About me**
 
-**I'm based in Germany/Deutschland.** You can contact me at **[gauravcodepro@gmail.com](mailto:gauravcodepro@gmail.com)** I'm open to Scientist/Academics/Researcher/Developer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). This is my new repository to which i have finished the transfer from the old one. 
+**I'm based in Germany/Deutschland.** You can contact me at **[Gmail](mailto:gauravcodepro@gmail.com)/[AppleMail](mailto:codeprog@icloud.com)** I'm open to Scientist/Academics/Researcher/Developer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). This is my new repository to which i have finished the transfer from the old one. 
 
 - I have a background in plant biology/bioinformatics, code **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. **I am writing code more in the new one as compared to the old one**.**At the level of DevOPS, i only work on what is listed in package/application development. I am not interested in cybersecurity, or areas not listed**. I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt. I am result oriented, directive and featured person, who endures developing the capabilities and continous development. As of now, i dont use AI for code writing as my approach is specific to specific roles.
 
@@ -31,11 +31,8 @@
 
 **Work Attitude/Professionalism:**
 - Extremely collaborative and I only supports those who support me.
-- Even AI prompt says ask me then i will tell, asking is the first way to initiate a open discussion/building relation.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- I believe decisions and communication not made have no and importance.
 - I give importance and priority to the people I am working and communicating with.
-- I believe that who is showing results is not fake whereas who is only talking with no results is fake.
 - I am very open to submitted applications and new positions and take active part in communication.
 - Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i consider nor i give importance. 
 - If you have heard anything, make an approach to confirm with me, may be you have heard from wrong or false people. 
