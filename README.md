@@ -5,15 +5,16 @@
 - I have a background in plant biology/bioinformatics, code developer **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. At the level of DevOPS, i only work on what is listed in my package/application development.
 - I am not interested in the areas not listed. I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments.
 - I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt.
-- I am result oriented, directive and featured person, who endures developing the capabilities and continous development. Till now, i dont use AI for code writing as my approach is specific to specific roles.
+- I am result oriented, directive and featured person, who endures developing the capabilities and continous development. Till now, i havent use AI for code writing. 
 
 **Getting to Know me ahead**
 - You can read this to understand how to avoid fake and how to invest in real people [**Getting to know ahead**](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing)
 - Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i will consider nor i will give importance. 
+- No one has the right to make a decision for any other indivual based on their thinking/assumptions.
 - Extremely collaborative and I only supports those who support me.
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I give importance and priority to the people I am working and communicating with.
-- If you have heard anything, make an approach to confirm with me, may be you have heard from wrong or false people.
+- If you have heard anything, make an approach to confirm with me, may be you have heard from wrong/false/fake people.
 
 **Scientific/Academic/Research:Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
 - **2024 onwards:** Universitat Potsdam, Germany, where I am currently based submitting applications and self-learnt Julia, GO and Javascript. During this time, I benchmarked PacBioHifi genome analysis with complete web-based real time monitoring invoking javascript/HTML-CSS, and coded several approaches, packages, gems in Python, Ruby, Julia, GO. I am also self-learning Geospatial Application Development to link the geospatial analysis and deep learning approaches.
@@ -25,11 +26,11 @@
 - **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
 **Developer: All code and ideas concieved and written by me unless specified.**
-- **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Python, R, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
-- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, MySQL, MongoDB. **HPC**: PBS and SLURM
+- **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Python, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
+- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS and SLURM
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript.
 - **Application Development**: Javascript, Python, GO
-- **Operating System and Code Editor**: Fedora, Neovim, Neovide.
+- **Operating System and Code Editor**: Fedora, Neovim, Neovide, VSCode and Cursor. 
 - **Terminal:** Wezterm, tMUX, Zellij.
 
 **Package/Application Development:**
