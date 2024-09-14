@@ -2,9 +2,8 @@
 
 **I'm based in Germany/Deutschland.** You can contact me at **[Gmail](mailto:gauravcodepro@gmail.com)/[AppleMail](mailto:codeprog@icloud.com)** I'm open to Scientist/Academics/Researcher/Developer. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 
-- I have a background in plant biology/bioinformatics, code developer **(prior to 2021: C++, Bash, AWK, R - after 2021: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. At the level of DevOPS, i only work on what is listed in my package/application development.
-- I am not interested in the areas not listed. I have developed the skills, I would need as a scientist/academician/researcher, including designing biological hypotheses, analyzing deep sequencing data, and interpreting its biological significance in the context of planned experiments.
-- I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt.
+- I have a background in plant biology/bioinformatics, code developer **(Till 2021: C++, Bash, AWK, R - 2021 onwards: Bash, AWK, Python, Ruby, Julia, Javascript, GO)**. At the level of DevOPS, i only work on what is listed in my package/application development.
+- I have developed the skills, I would need as a scientist/academician/researcher/specialist. I consider myself to be someone with a high level of perseverance who is driven and eager to learn and apply what i have learnt.
 - I am result oriented, directive and featured person, who endures developing the capabilities and continous development. Till now, i havent use AI for code writing. 
 
 **Getting to Know me ahead**
@@ -29,6 +28,7 @@
 - **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Python, Ruby, Julia, Javascript, Awk, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, Jekyll, Github Pages, Quatro.
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS and SLURM
 - **Web Develpoment**: Rails, Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript, Typescript.
+- **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
 - **Operating System and Code Editor**: Fedora, Neovim, Neovide, VSCode and Cursor. 
 - **Terminal:** Wezterm, tMUX, Zellij.
