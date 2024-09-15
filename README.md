@@ -6,7 +6,7 @@ I have a background in plant biology/bioinformatics. I have developed the skills
 - You can read this to understand how to avoid fake and how to invest in real people [**Getting to know ahead**](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing)
 - Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i will consider nor i will give importance. 
 - No one has the right to make a decision for any other indivual based on their thinking/assumptions.
-- Extremely collaborative and I only supports those who support me.
+- Extremely collaborative and I only supports those who support me and take right approaches. 
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I give importance and priority to the people I am working and communicating with.
 - If you have heard anything, make an approach to confirm with me, may be you have heard from wrong/false/fake people.
