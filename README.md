@@ -22,10 +22,10 @@ I have a background in plant biology/bioinformatics. I have developed the skills
 
 **Scientific/Application Developer:** 
 - All code and ideas concieved and written by me unless specified. 
-- Till 2021: C++, Bash, AWK, R. From 2021 onwards: Bash, AWK, Python, Ruby, Julia, Javascript, GO. July 2024- R and Ruby only reading and mainly using Bash, AWK, Python, Julia, Javascript, GO. 
-- **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Awk, Python, Julia, Javascript, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, Ruby, GO **API Development**: FASTAPI. **Documentation**: Markdown, ReadTheDocs, MkDocs, HUGO.
+- Till 2021: C++, Bash, Awk, R. 2021 onwards: Bash, Awk, Python, Ruby, Julia, Javascript, GO. July 2024 R and Ruby read mode. July 2024 Code - Bash, Awk, Python, Julia, Javascript, GO. 
+- **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Awk, Python, Julia, Javascript, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO.
 - **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS and SLURM
-- **Web Develpoment**: Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript/Typescript?Nodejs.
+- **Web Develpoment**: Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript/Typescript/Nodejs.
 - **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
 - **Operating System and Code Editor**: Fedora, Neovim, Neovide, VSCode and Cursor. 
