@@ -8,8 +8,7 @@ I have a background in plant biology/bioinformatics. I have developed the skills
 - No one has the right to make a decision for any other indivual based on their thinking/assumptions.
 - Extremely collaborative and I only supports those who support me and take right approaches. 
 - Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- I give importance and priority to the people I am working and communicating with.
-- If you have heard anything, make an approach to confirm with me, may be you have heard from wrong/false/fake people.
+- If you havent heard or confirmed with me and believed anything, you have heard from wrong/false/fake people.
 
 **Scientific/Academic/Research:Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
 - **2024 onwards:** Universitat Potsdam, Germany, where I am currently based and self-learnt Julia, GO and Javascript. I benchmarked PacBioHifi genome analysis with complete web-based real time monitoring invoking javascript/HTML-CSS, and coded several packages, gems in Python, Ruby, Julia, GO. Self-learning Geospatial Application Development in Python and Javascript.
