@@ -27,7 +27,7 @@
 - All code and ideas concieved and written by me unless specified. 
 - Till 2021: C++, Bash, Awk, R. 2021-2024: Bash, Awk, Python, Ruby, Julia, Javascript, GO. July 2024: R and Ruby read and Code - Bash, Awk, Python, Julia, Javascript, GO. 
 - **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Awk, Python, Julia, Javascript, GO **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO.
-- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken, Docker **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS and SLURM
+- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS, SLURM, Apptainer, Docker 
 - **Web Develpoment**: Python Shiny/ShinyExpress, Streamlit, Django, Julia, Flask, Javascript/Typescript/Nodejs.
 - **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
