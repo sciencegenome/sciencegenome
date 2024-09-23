@@ -34,7 +34,7 @@
 - **Bioinformatics,Deep Learning including Language Models and Graphs.** : Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO.
-- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. 
+- **DevOPs**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **LDAP**: LDAPManagement and Server configuration
 - **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS, SLURM, Apptainer, Docker 
 - **Web Application Develpoment**: Shiny/ShinyExpress(Python), Streamlit, Django, Julia, Flask, Javascript/Typescript/Nodejs.
 - **Geospatial Application Developement**: Python, Javascript
