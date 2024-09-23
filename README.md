@@ -1,6 +1,6 @@
 **About me**
 
-- I have a background in plant biology/bioinformatics. I have a high level of perseverance, driven, eager to learn and applicative. I am result oriented, directive and featured person, who endures developing the capabilities and continous development. **I'm based in Germany/Deutschland.** You can contact me at **[Gmail](mailto:gauravcodepro@gmail.com)/[AppleMail](mailto:codeprog@icloud.com)** 
+- I have a background in plant biology/bioinformatics. I have a high level of perseverance, driven, eager to learn and applicative. I am result oriented, directive and featured person, who endures developing the capabilities and continous development. **I'm based in Germany/Deutschland.**.
 - I'm open to Scientist/Academics/Researcher/Developer/Specialist. [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 - I dont use AI for code writing and I am a very frequent writer at [**Linux community**](https://linuxcommunity.io/). 
 - You can read this to understand how to avoid fake and how to invest in real people [**Getting to know ahead**](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing)
