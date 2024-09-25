@@ -26,7 +26,7 @@
 - **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO.
 - **DevOPs/System Administration**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **LDAP**: LDAPManagement and Server configuration
 - **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS, SLURM, Apptainer, Docker 
-- **Web Application Develpoment**: Shiny/ShinyExpress(Python), Streamlit, Django, Julia, Flask, Javascript/Typescript.
+- **Web Application Develpoment**: Shiny/ShinyExpress(Python), Streamlit, Django, Julia, Flask, Javascript.
 - **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
 - **Operating System and Code Editor**: Fedora, Neovim, Cursor. 
