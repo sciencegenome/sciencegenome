@@ -1,9 +1,9 @@
 **About me**
 
-- **Acception position on Scientist/Academics/Researcher/Developer/Specialist/System Administration**. I am result oriented, directive and featured person, who endures developing the capabilities and continous development. **I'm based in Germany/Deutschland. 🇩🇪**
-- [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). 
+- **Accepting position on Scientist/Academics/Researcher/Specialist/System Administration**. **I'm based in Germany/Deutschland. 🇩🇪** [**Curriculum Vitae/Past Employers References**](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [**Scopus**](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [**ORCID**](https://orcid.org/0000-0002-4157-9405), [**Web of Science**](https://www.webofscience.com/wos/author/record/C-5940-2014). 
+- Extremely collaborative and I only supports those who support me and take right approaches. Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I dont use AI for code writing and I am a very frequent writer at [**Linux community**](https://linuxcommunity.io/). 
-- You can read this to understand how to avoid fake and how to invest in real people [**Getting to know ahead**](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing).Extremely collaborative and I only supports those who support me and take right approaches. Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker. 
+- You can read this to understand how to avoid fake and how to invest in real people [**Getting to know ahead**](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
 -  If you havent heard or confirmed with me and believed anything, you have heard from wrong/false/fake people.Deciding my personal preferences/choices/likes/dislikes is not anyone role and neither i will consider nor i will give importance. No one has the right to make a decision for me based on their thinking/assumptions. Dont waste others time and dont waste my time. You are wasting your time by listening to such people and that has nothing to do with me as i dont give importance to those people.
 
 **Scientific/Academic Research:Plant, Bacterial, Fungal Bioinformatics, Deep Learning,and DevOPs.**
@@ -15,7 +15,7 @@
 - **2014–2016:** University of Technology, Sydney, Australia, where I developed computational methods for understanding seagrasses.
 - **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
-**Developer Scientific/Application/System Administration:** 
+**Scientific/Application/System Administration:** 
 - All code and ideas concieved and written by me unless specified. 
 - Prior to 2021: all code internally hosted by work places.
 - Till 2021: C++, Bash, Awk, R. 
