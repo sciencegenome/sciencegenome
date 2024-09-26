@@ -21,16 +21,16 @@
 - Prior to 2021: all code internally hosted by work places.
 - Till 2021: C++, Bash, Awk, R. 
 - From 2021-2024: Bash, Awk, Python, Ruby, Julia, Javascript, GO. 
-- July 2024 onwards: R and Ruby read and Mainstream Code - Bash, Awk, Python, Julia, Javascript, GO
+- July 2024 onwards: R and Ruby read and **Mainstream Code** - Bash, Awk, Python, Julia, Javascript, GO
 - **Bioinformatics,Deep Learning** : Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
-- **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO.
+- **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO, Quatro.
 - **DevOPs/System Administration**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **LDAP**: LDAPManagement and Server configuration
-- **Database**: SQlite3, PostgresSQL, MongoDB. **HPC**: PBS, SLURM, Apptainer, Docker 
+- **Database**: SQlite3, PostgresSQL, MongoDB. **HPC and Containerization**: PBS, SLURM, Apptainer, Docker 
 - **Web Application Develpoment**: Shiny/ShinyExpress(Python), Streamlit, Django, Julia, Flask, Javascript.
 - **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
-- **Operating System and Code Editor**: Fedora, Neovim, Cursor. 
+- **Operating System and Code Editor**: Fedora, Neovim/NeoVide, Cursor. 
 - **Terminal:** Wezterm, tMUX, Zellij.
 
 **Package/Application Development:** 
