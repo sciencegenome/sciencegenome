@@ -20,7 +20,6 @@
 - All code and ideas concieved and written by me unless specified. 
 - Prior to 2021: all code internally hosted by work places.
 - Till 2024: C++, Bash, Awk, R, Bash, Awk, Python, Ruby, Julia, Javascript, GO. 
-- July 2024 onwards: Bash, Awk, Python, Julia, Javascript, GO
 - **Bioinformatics,Deep Learning** : Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO, Quatro.
