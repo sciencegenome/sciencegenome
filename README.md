@@ -17,8 +17,7 @@
 - **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
 **Scientific/Application/System Administration:** 
-- All code and ideas concieved and written by me unless specified. 
-- Prior to 2021: all code internally hosted by work places.
+- All code and ideas concieved and written by me unless specified. Till 021: all code internally hosted by work places.
 - Till 2024: C++, Bash, Awk, R, Bash, Awk, Python, Ruby, Julia, Javascript, GO. 
 - **Bioinformatics,Deep Learning** : Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
@@ -33,8 +32,8 @@
 
 **Package/Application Development:** 
 
-- **DevOPS/SyStem Adminstration** - **Python** | [**Python Packages**](https://pypi.org/user/gauravcodepro/) |  [**Slurm generator**](https://github.com/codecreatede/universitat-potsdam-devops) **Ruby** | [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) |  [**Devopsutils**](https://github.com/codecreatede/devops-system-profiler) | [**Ruby-template**](https://github.com/codecreatede/ruby-gem-create) | - **Golang** [**Apptainer-devops**](https://github.com/codecreatede/golang-apptainer-devops) | [**Fedora-devops**](https://github.com/codecreatede/fedora-devops) | [**go-ldap**](https://github.com/codecreatede/golang-ldap)
-
+- **DevOPS/SyStem Adminstration** - **Python** | [**Python Packages**](https://pypi.org/user/gauravcodepro/) |  [**Slurm generator**](https://github.com/codecreatede/universitat-potsdam-devops) | **Ruby** | [**Ruby gems**](https://rubygems.org/profiles/gauravcodepro) |  [**Devopsutils**](https://github.com/codecreatede/devops-system-profiler) | [**Ruby-template**](https://github.com/codecreatede/ruby-gem-create) | - **Golang** [**Apptainer-devops**](https://github.com/codecreatede/golang-apptainer-devops) | [**Fedora-devops**](https://github.com/codecreatede/fedora-devops) | [**go-ldap**](https://github.com/codecreatede/golang-ldap)
 
 - **Bioinformatics** - **Python** | [**TAIR Streamlit**](https://githb.com/arabidopsis-genome-analyzer) [**Tairaccession**](https://github.com/codecreatede/tairaccession)| [**Metabolic-analyzer**](https://github.com/codecreatede/BIGG-metabolic-analyzer-API) | [**Metabolic-json**](https://github.com/codecreatede/metabolic-json) | [**Ontology-graphs**](https://github.com/codecreatede/ontology-graphs) | [**Pacbiohifi**](https://github.com/codecreatede/pacbiohifi-desktop) | **Ruby** [**Fasta-tokenizer**](https://github.com/codecreatede/pacbiohifi-motif-scanner) and [**Kmer-counter**](https://github.com/codecreatede/kmer-count) | [**Panacheextract**](https://rubygems.org/gems/panacheextract) | [**Protalign**](https://github.com/codecreate/proteinalignment-annotation-gem) and [**Proteinmultialign**](https://github.com/codecreatede/protein-multialign-gem) | [**Pacbiohifi-analyzer**](https://github.com/codecreatede/pacbiohifi-analyzer) **Golang** [**block-estimate**](https://github.com/codecreatede/go-alignment-block-estimate) | [**block-getter**](https://github.com/codecreatede/golang-alignment-block-getter) | [**alignment-proportion**](https://github.com/codecreatede/go-alignment-proportion) | [**alignment-estimate**](https://github.com/codecreatede/go-alignment-estimate) | [**phylogenomics-tab**](https://github.com/codecreatede/go-phyloegenomics-tab) | [**go-metagenomics**](https://github.com/codecreatede/go-metagenome-placer) | [**phylogenomics-filter**](https://github.com/codecreatede/goroutines-phylogenomics-filter) | [**alignment-merger**](https://github.com/codecreatede/goroutines-alignment-merger) | [**go-graphics**](https://github.com/codecreatede/go-graphics) | [**go-pacbiohifi**](https://github.com/codecreatede/go-pacbiohifi) | [**go-mapper**](https://github.com/codecreatede/gomapper-diamond) | [**go-pacbiohifi-visualization**](https://github.com/codecreatede/golang-pacbiohifi-visualization)
- 
+
+- In case of golang, please see the last commit message and if it is final release and binary attached then it final else build verion.  
