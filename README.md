@@ -17,7 +17,7 @@
 - **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
 **Scientific/Application/System Administration:** 
-- All code and ideas concieved and written by me unless specified. Till 021: all code internally hosted by work places.
+- All code and ideas concieved and written by me unless specified. 
 - Till 2024: C++, Bash, Awk, R, Bash, Awk, Python, Ruby, Julia, Javascript, GO. 
 - **Bioinformatics,Deep Learning** : Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
