@@ -24,7 +24,7 @@
 - **Machine/Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package Development**: Python, Julia, GO **API Development**: FASTAPI. **Documentation**: Markdown, MkDocs, HUGO, Quatro.
 - **DevOPs/System Administration**: Bash, Awk, Python, GO. **Code Management**: Git, GitKraken **Orchestration**:Terraform, Kubernetes. **Visualization**: Grafana. **LDAP**: LDAPManagement and Server configuration
-- **Database**: SQlite3, PostgresSQL, MongoDB. **HPC and Containerization**: PBS, SLURM, Apptainer, Docker 
+- **Database**: SQlite3, PostgresSQL, MongoDB. **HPC and Containerization**: PBS, SLURM, Apptainer, Docker, Podman. 
 - **Web Application Develpoment**: Shiny/ShinyExpress(Python), Streamlit, Django, Julia, Flask, Javascript.
 - **Geospatial Application Developement**: Python, Javascript
 - **Application Development**: Javascript, Python, GO
