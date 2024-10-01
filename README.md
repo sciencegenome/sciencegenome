@@ -3,8 +3,7 @@
 - Open/Accept position on Scientist/Academics/Researcher/Specialist/System Administrator. 
 - [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300), [ORCID](https://orcid.org/0000-0002-4157-9405), [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 - Extremely collaborative and I only supports those who support me and take right approaches. Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
-- I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). 
-- [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
+- I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
 -  If you havent heard from me or confirmed with me and believed anything, it has nothing to do with me.
 - If someone has said i like anyone/mylikes/mydislikes, kindly ignore such people or go to them and dont approach me. You are wasting your time by listening to such people and that has nothing to do with me. 
 - I dont allow someone to make a decision for me. Dont dont waste my and others time. 
