@@ -1,4 +1,4 @@
-**Brief Introduction: About me**
+**Brief Introduction:**
 
 - Open/Accept position on Scientist|Academics Researcher|Specialist |System Administrator. 
 - [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [ORCID](https://orcid.org/0000-0002-4157-9405) | [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). 
@@ -8,7 +8,7 @@
 - If someone has said i like anyone/mylikes/mydislikes/association with anything, kindly ignore such people or go to them and dont approach me. They are wasting your time and that has nothing to do with me. 
 - I dont allow someone to make a decision for me. Dont waste my and others time. 
 
-**Work Areas/Employment:Bioinformatics|Deep Learning|DevOPs/System Administration.**
+**Work Areas/Employment:Bioinformatics|Deep Learning|System Administration.**
 - **2024- :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript, Geospatial Application Development. I benchmarked PacBioHifi genome analysis with complete web-based real time monitoring invoking javascript/HTML-CSS, and coded several packages, gems in Python, Ruby, Julia, GO. 
 - **2021-2023:** Machine and deep learning, Devops and self-learnt Python, Web and Application development. 
 - **2020-2021:** Finnish Museum of Natural History and the University of Helsinki, Finland. I managed the sequencing used the NextSeq methods, including sequencing library methods. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 different species.
@@ -19,7 +19,7 @@
 
 **Programming Stack/Packages/Application:** 
 - All code and ideas concieved and written by me unless specified. 
-- Till 2024: C++, Bash, Awk, R, Bash, Awk, Python, Ruby, Julia, Javascript, GO. 
+- **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
 - **Bioinformatics|Deep Learning** : **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine|Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package|API Development**: Python, Julia, GO,FASTAPI. **Documentation**: Markdown, MkDocs, Quatro.
