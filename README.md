@@ -15,7 +15,7 @@
 - **2014–2016:** University of Technology, Sydney, Australia, where I developed computational methods for seagrasses.
 - **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
 
-**Developer Stack/Packages/Application:** 
+**Developer Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
 - **Bioinformatics|Deep Learning| System Program**: **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
@@ -24,7 +24,7 @@
 - **System Analyst**: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - **Database**: SQlite3, PostgresSQL, MongoDB. 
 - **HPC**: PBS, SLURM.
-- **Web|Geospatial|Application|Develpoment**: Electron, Shiny/ShinyExpress(Python), Streamlit, Django, Julia, HUGO, Flask, Javascript, GO
+- **Web|Geospatial Develpoment**: Electron, Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, Javascript
 - **OS|Code Editor|Terminal**: RedHat(Fedora), NeoVim, Cursor, Wezterm, tMUX, Zellij.
 - **In case of golang, please see the last commit message for the final release.**
 - **System Adminstration** - **Python** | [Python Packages](https://pypi.org/user/gauravcodepro/) |  [Slurm generator](https://github.com/codecreatede/universitat-potsdam-devops) | **Ruby** | [Ruby gems](https://rubygems.org/profiles/gauravcodepro) |  [Devopsutils](https://github.com/codecreatede/devops-system-profiler) | [Ruby-template](https://github.com/codecreatede/ruby-gem-create) | **Go** [Apptainer-devops](https://github.com/codecreatede/golang-apptainer-devops) | [Fedora-devops](https://github.com/codecreatede/fedora-devops) | [GO-LDAP](https://github.com/codecreatede/golang-ldap) | [GO-Network](https://github.com/codecreatede/go-network-analyzer) | [Network-analyzer](https://github.com/codecreatede/go-network-analyzer) | [TCP-analyzer](https://github.com/codecreatede/tcp-analyzer)
