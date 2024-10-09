@@ -1,21 +1,21 @@
 **Brief Introduction:**
 
-- Open/Accept position on Scientist|Academics Researcher|Specialist |System Administrator. 
+- Open/Accept position on Scientist | Researcher | Specialist | System Administrator. 
 - [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [ORCID](https://orcid.org/0000-0002-4157-9405) | [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 - Extremely collaborative, Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
 -  If you havent heard from / confirmed with me and believed anything false, it has nothing to do with me. If someone has said i like anyone/mylikes/mydislikes/association with anything, kindly ignore such people or go to them and dont approach me. They are wasting your time and that has nothing to do with me. I dont allow someone to make a decision for me. Dont waste my and others time. 
 
-**Work Areas/Employment:Bioinformatics|Deep Learning|System Administration.**
-- **2024- :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript, Geospatial Application Development. I benchmarked PacBioHifi genome analysis with complete web-based analysis invoking javascript/HTML-CSS, and coded several packages, gems in Python, Ruby, Julia, GO. 
+**Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
+- **2024- :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript. I benchmarked PacBioHifi genome analysis with complete web-based analysis invoking javascript/HTML-CSS, and coded several packages, gems in Python, Ruby, Julia, GO. 
 - **2021-2023:** Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - **2020-2021:** Finnish Museum of Natural History and the University of Helsinki, Finland. I managed the sequencing used the NextSeq methods, including sequencing library methods. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 different species.
-- **2017-2021:** Finnish Museum of Natural History and University of Helsinki, Finland, where I conducted bioinformatics and sequencing the genomes of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, for which I did pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. Additionally, during that tenure, I worked for collaborations with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the Ambrosia clade from Norway.
+- **2017-2021:** Finnish Museum of Natural History and University of Helsinki, Finland, where I conducted bioinformatics and sequencing the genomes of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, for which I did pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. Additionally, during that tenure, I worked for collaboration with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the Ambrosia clade from Norway.
 - **2016-2017:** University of Connecticut, USA, where I analyzed the Douglas fir genome from the genome annotation to the phylogenomics and identifying genes and evolution of importance.
 - **2014–2016:** University of Technology, Sydney, Australia, where I developed computational methods for seagrasses.
-- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for transcriptional and post-transcriptional genomics across nuclear and organelle genomes. I analyzed multiple metagenomics anlaysis coming from the fungal and bacterial species involving ITS metagenomics, as well as the bacterial genome metagenomics.
+- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for nuclear and organelle genomes. I analyzed metagenomics data coming from fungal and bacterial both whole genome as well as 16S and ITS sequencing.
 
-**Developer Stack:** 
+**Developer Code Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
 - **Bioinformatics|Deep Learning| System Program**: **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
