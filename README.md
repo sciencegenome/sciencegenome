@@ -18,7 +18,7 @@
 **Developer Code Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
-- **Bioinformatics|Deep Learning| System Program**: **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
+- **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
 - **Machine|Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package|API Development**: Python, Julia, GO,FASTAPI. **Documentation**: Markdown, MkDocs, Quatro.
 - **System Analyst**: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
