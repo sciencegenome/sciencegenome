@@ -7,20 +7,21 @@
 -  If you havent heard from / confirmed with me and believed anything false, it has nothing to do with me. If someone has said i like anyone/mylikes/mydislikes/association with anything, kindly ignore such people or go to them and dont approach me. They are wasting your time and that has nothing to do with me. I dont allow someone to make a decision for me. Dont waste my and others time. 
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
-- **2024- :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript, benchmarked PacBioHifi genome analysis and coded several packages, gems in Python, Ruby, Julia, GO. 
+- **2024 - :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript, benchmarked PacBioHifi genome analysis and coded packages in Python, Ruby, Julia, GO. 
 - **2021-2023:** Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - **2020-2021:** Finnish Museum of Natural History and the University of Helsinki, Finland. I managed the sequencing used the NextSeq methods, including sequencing library methods. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 different species.
-- **2017-2021:** Finnish Museum of Natural History and University of Helsinki, Finland, where I conducted bioinformatics and sequencing the genomes of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, for which I did pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. Additionally, during that tenure, I worked for collaboration with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the Ambrosia clade from Norway.
+- **2017-2021:** Finnish Museum of Natural History and University of Helsinki, Finland, where I conducted bioinformatics and sequencing the genomes of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, for which I did pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. Additionally, I worked for collaboration with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
 - **2016-2017:** University of Connecticut, USA, where I analyzed the Douglas fir genome from the genome annotation to the phylogenomics and identifying genes and evolution of importance.
 - **2014–2016:** University of Technology, Sydney, Australia, where I developed computational methods for seagrasses.
-- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for nuclear and organelle genomes. I analyzed metagenomics data coming from fungal and bacterial both whole genome as well as 16S and ITS sequencing.
+- **2011-2014:** Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for nuclear and organelle genomes, metagenomics from fungal and bacterial both whole genome as well as 16S and ITS sequencing.
 
-**Developer Code Stack:** 
+**Scientific Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
 - **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
-- **Machine|Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
-- **Package|API Development**: Python, Julia, GO,FASTAPI. **Documentation**: Markdown, MkDocs, Quatro.
+- **Machine | Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
+- **Package | API Development**: Python, Julia, GO, FASTAPI.
+- **Documentation**: Markdown, MkDocs, Quatro.
 - **System Analyst**: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - **Database**: SQlite3, PostgresSQL, MongoDB. 
 - **HPC**: PBS, SLURM.
