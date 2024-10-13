@@ -4,7 +4,7 @@
 - [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [ORCID](https://orcid.org/0000-0002-4157-9405) | [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 - Extremely collaborative, Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
-- If you have listened from me then it has value to you and me and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
+- If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 -  I am not responsible for anyone suggesting any personal/work preferences saying that I like that. You can ask me anytime and i will let you know.
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
