@@ -4,10 +4,11 @@
 - [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [ORCID](https://orcid.org/0000-0002-4157-9405) | [Web of Science](https://www.webofscience.com/wos/author/record/C-5940-2014). 
 - Extremely collaborative, Highly Communicative, approachable, motivated, task and solution oriented, time responsive, and initiative taker.
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
--  If you havent heard from / confirmed with me and believed anything false, it has nothing to do with me. If someone has said i like anyone/mylikes/mydislikes/association with anything, kindly ignore such people or go to them and dont approach me. They are wasting your time and that has nothing to do with me. I dont allow someone to make a decision for me. Dont waste my and others time. 
+- If you have listened from me then it has value to you and me and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
+-  I am not responsible for anyone suggesting any personal/work preferences saying that I like that. You can ask me anytime and i will let you know.
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
-- **2024 - :** Universitat Potsdam,Germany, where I self-learnt Julia, GO and Javascript, benchmarked PacBioHifi genome analysis and coded packages in Python, Ruby, Julia, GO. 
+- **2024 - :** Universitat Potsdam,Germany, where I self-learnt Julia and Go, benchmarked PacBioHifi genome analysis and coded packages in Python, Ruby, Julia, GO. 
 - **2021-2023:** Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - **2020-2021:** Finnish Museum of Natural History and the University of Helsinki, Finland. I managed the sequencing used the NextSeq methods, including sequencing library methods. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 different species.
 - **2017-2021:** Finnish Museum of Natural History and University of Helsinki, Finland, where I conducted bioinformatics and sequencing the genomes of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas* species, for which I did pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches. Additionally, I worked for collaboration with the host organization such as Edinburgh UK, to analyse the genomics data for PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
@@ -17,15 +18,15 @@
 
 **Scientific Stack:** 
 - All code and ideas concieved and written by me unless specified. 
-- **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, Javascript, GO. 
-- **Current**: Bash/Shell, Awk, Python, Julia, Javascript, GO 
+- **Till 2024**: C++, Bash, Awk, R, Python, Ruby, Julia, GO. 
+- **Current**: Bash/Shell, R, Awk, Python, Julia, GO 
 - **Machine | Deep Learning**: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, LightGBM, Fastai. 
 - **Package | API Development**: Python, Julia, GO, FASTAPI.
 - **Documentation**: Markdown, MkDocs, Quatro.
 - **System Analyst**: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - **Database**: SQlite3, PostgresSQL, MongoDB. 
 - **HPC**: PBS, SLURM.
-- **Web Develpoment**: Electron, Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, Javascript
+- **Web Develpoment**: Electron, Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx.
 - **OS|Code Editor|Terminal**: RedHat(Fedora), NeoVim, Cursor, Wezterm, tMUX, Zellij.
 - **In case of golang, please see the last commit message for the final release.**
 - **System Adminstration** - **Python** | [Python Packages](https://pypi.org/user/gauravcodepro/) |  [Slurm generator](https://github.com/codecreatede/universitat-potsdam-devops) | **Ruby** | [Ruby gems](https://rubygems.org/profiles/gauravcodepro) |  [Devopsutils](https://github.com/codecreatede/devops-system-profiler) | [Ruby-template](https://github.com/codecreatede/ruby-gem-create) | **Go** [Apptainer-devops](https://github.com/codecreatede/golang-apptainer-devops) | [Fedora-devops](https://github.com/codecreatede/fedora-devops) | [GO-LDAP](https://github.com/codecreatede/golang-ldap) | [GO-Network](https://github.com/codecreatede/go-network-analyzer) | [Network-analyzer](https://github.com/codecreatede/go-network-analyzer) | [TCP-analyzer](https://github.com/codecreatede/tcp-analyzer)
