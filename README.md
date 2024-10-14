@@ -6,6 +6,7 @@
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). [This will help you understand real person](https://drive.google.com/file/d/1pOfBWigcJAuQitLSdpxnD1YZ3hB6ZkU0/view?usp=sharing). 
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 -  I am not responsible for anyone suggesting any personal/work preferences saying that I like that. You can ask me anytime and i will let you know.
+- I dont entertain a single word of listening someone personal preferences or likes and dislikes. I dont accept a personal relation with any co-authors and neither i am interested in hearing from anyone with whom or whomnot i should like or dislike.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
 - **2024 - :** Universitat Potsdam,Germany, where I self-learnt Julia and Go, benchmarked PacBioHifi genome analysis and coded Python, Ruby, Julia, GO. 
