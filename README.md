@@ -24,5 +24,6 @@
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - HPC/Database: SQlite3, PostgresSQL, MongoDB, PBS, SLURM, RedHat(Fedora).
 - Web Develpoment: Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx. 
-- In case of golang, please see the last commit message for the final release.
+- Golang, please see the last commit message for the final release.
 - Golang and RUST binaries available from SourceForge [Source Forge](https://sourceforge.net/u/codecreatede/profile/)
+- Topic sorted repositories can be viewed at [sortedtopics](https://github.com/codecreatede/codecreatede/blob/main/topicsorted.md)
