@@ -18,7 +18,7 @@
 
 **Language Stack:** 
 - All code and ideas concieved and written by me unless specified. 
-- Past:C++(dropped 2021), Now: Bash, R, Ruby, Awk, Python, Julia, GO, RUST.
+- Past:C++(dropped 2021), Now: Bash, R, Awk, Python, Julia, GO, RUST.
 - Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai. 
 - Package/API Development | Documentation: Python, Julia, GO, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
