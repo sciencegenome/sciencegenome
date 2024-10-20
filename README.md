@@ -20,10 +20,10 @@
 
 **Language Stack:** 
 - All code and ideas concieved and written by me unless specified. 
-- Past:C++(dropped 2021) | Now: Bash, R, Awk, Python, Julia, GO, RUST.
+- Past:C++(dropped 2021) | Now: Bash, Awk, Python, Julia, GO, RUST.
 - Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
-- HPC/Database: SQlite3, PostgresSQL, MongoDB, PBS, SLURM, RedHat(Fedora).
+- HPC/Database: SQlite3, PostgresSQL, PBS, SLURM, RedHat(Fedora).
 - Web Develpoment: Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx. 
 - Golang, please see the last commit message for the final release.
 - [Golang and RUST binaries Source Forge](https://sourceforge.net/u/codecreatede/profile/)
