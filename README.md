@@ -1,7 +1,7 @@
 **Brief Introduction:**
-- I would like to introduce myself as a person, who is very devoted towards writing good quality code and developing programs and analysis for bioinformatics, devops, system management, and cluster computing since 2011. I have played an active role and lead all the bio-informatics analysis in all the projects till now without any support, and have written considerable code using several programming languages such as BASH, R, Awk, Ruby, Python, Julia, GO. Since 2024, i have been actively coding in Python, Julia, GO and RUST. I have played a active role in development of the computing facilities in my previous position and have established computing cluster and managed computing clusters. 
-- On the server side, I mainly used BASH previously and now i use BASH and GO for the management of the cluster. I am skilled in working on high performance computing cluster and have a wide demonstration of using BASH for server side administration. I am well versed with the github actions and also integration of several devops tools, implementing new code approaches and also solving limitations of requirements. I actively lead a continuous phase of learning and actively writing code spanning across from devops to bioinformatics analysis and machine and deep learning.  
-- My wide skill set and extensive experience make me a strong candidate and I can play a variety of role across the selected position. I have expertise motivating individuals with various mindsets to strive toward their objectives and get the desired results. I consider myself to be someone with a high level of perseverance who is driven and eager to learn everything.
+- I would like to introduce myself as a person, who is very devoted towards writing good quality code and developing programs and analysis for bioinformatics, devops, system management, and cluster computing since 2011. I have lead all the bio-informatics analysis in all the projects till now without any support, and have written considerable code using several programming languages such as BASH, R, Awk, Ruby, Python, Julia, GO. Since 2024, i have been actively coding in BASH, Awk, R, Python, Julia, GO and RUST. 
+- I have played a active role in development of the computing facilities in my previous position and have established computing cluster and managed computing clusters. On the server side, I mainly used BASH and GO for the management of the cluster. I am well versed with the github actions and also integration of several devops tools, implementing new code approaches and also solving requirements limitations. I actively lead a continuous phase of learning and actively writing code spanning across from devops to bioinformatics analysis and machine and deep learning.  
+- My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - Open to Scientist | Researcher | Specialist | System Administrator. [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) 
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). 
@@ -10,7 +10,7 @@
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whomnot i should work or go around.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
-- 2024-: Universitat Potsdam,Germany, self-learnt Julia,GO, benchmarked PacBioHifi and coded Python, Ruby, Julia, GO. 
+- 2024-: Universitat Potsdam,Germany, self-learnt Julia,GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO. 
 - 2021-2023: Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I conducted pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
@@ -20,7 +20,7 @@
 
 **Language Stack:** 
 - All code and ideas concieved and written by me unless specified. 
-- Past:C++(dropped 2021), Now: Bash, R, Awk, Python, Julia, GO, RUST.
+- Past:C++(dropped 2021) | Now: Bash, R, Awk, Python, Julia, GO, RUST.
 - Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai. 
 - Package/API Development | Documentation: Python, Julia, GO, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
