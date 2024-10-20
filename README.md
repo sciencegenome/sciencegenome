@@ -1,5 +1,5 @@
 **Brief Introduction:**
-- I would like to introduce myself as a person, who is very devoted towards writing good quality code and developing programs and analysis for bioinformatics, devops, system management, and cluster computing since 2011. I have lead all the bio-informatics analysis in all the projects till now without any support, and have written considerable code using several programming languages such as BASH, R, Awk, Ruby, Python, Julia, GO. Since 2024, i have been actively coding in BASH, Awk, R, Python, Julia, GO and RUST. 
+- I would like to introduce myself as a person, who is very devoted towards writing good quality code and developing programs and analysis for bioinformatics, devops, system management, and cluster computing. I have lead all the bio-informatics analysis in all the projects till now without any support, and have written considerable code using several programming languages such as BASH, R, Awk, Ruby, Python, Julia, GO. Since 2024, i have been actively coding in BASH, Awk, R, Python, Julia, GO and RUST. 
 - I have played a active role in development of the computing facilities in my previous position and have established computing cluster and managed computing clusters. On the server side, I mainly used BASH and GO for the management of the cluster. I am well versed with the github actions and also integration of several devops tools, implementing new code approaches and also solving requirements limitations. I actively lead a continuous phase of learning and actively writing code spanning across from devops to bioinformatics analysis and machine and deep learning.  
 - My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
@@ -21,8 +21,7 @@
 **Language Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - Past:C++(dropped 2021) | Now: Bash, R, Awk, Python, Julia, GO, RUST.
-- Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai. 
-- Package/API Development | Documentation: Python, Julia, GO, Markdown, MkDocs, Quatro.
+- Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - HPC/Database: SQlite3, PostgresSQL, MongoDB, PBS, SLURM, RedHat(Fedora).
 - Web Develpoment: Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx. 
