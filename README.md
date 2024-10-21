@@ -7,7 +7,7 @@
 - Open to Scientist | Researcher | Specialist | System Administrator. [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) 
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). 
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
-- I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorial association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know.
+- I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorical/numerical association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know.
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whomnot i should work or go around.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
