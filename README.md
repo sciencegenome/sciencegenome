@@ -11,7 +11,7 @@
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whomnot i should work or go around.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
-- 2024-: **Universitat Potsdam,Germany, where i am not associated with any group at present and self-learnt Julia,GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO.* 
+- 2024-: **Universitat Potsdam,Germany, where i am not associated with any group at present and self-learnt Julia,GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO.** 
 - 2021-2023: Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I conducted pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
