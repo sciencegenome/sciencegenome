@@ -1,6 +1,7 @@
 **Brief Introduction:**
-- I would like to introduce myself as a person, who is very devoted towards developing programs and analysis for bioinformatics, machine and deep learning, devop and system management. 
-- I have lead all the bio-informatics analysis in all the projects till now without any support, and wrote code using BASH, R, Awk, Ruby, Python, Julia, GO. Since 2024, i have been actively coding in BASH, Awk, Python, Julia, GO, RUST, covering all aspects from bioinformatics, data analytics, deep learning to system programming.  
+- I would like to introduce myself as a person, working across bioinformatics, machine and deep learning, devop and system management. 
+- I have lead all the bio-informatics analysis in all the projects till now without any support, and previously wrote code using BASH, R, Awk, Ruby, Python, Julia, GO. 
+- Since 2024, i have been actively coding in BASH, Awk, Python, Julia, GO, RUST, covering all aspects from bioinformatics, data analytics, deep learning to system programming.  
 - I have played a active role in development of the computing cluster and established and managed computing clusters. I am well versed with the github actions and also integration of several devops tools, implementing new code approaches and also solving requirements limitations. 
 - I actively lead a continuous phase of learning and code writing from devops to bioinformatics analysis and machine and deep learning.  
 - My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
@@ -9,7 +10,7 @@
 - I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). 
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 - I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorical/numerical association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know.
-- I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whomnot i should work or go around.  
+- I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whom not i should work or go around.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
 - 2024-: **Universitat Potsdam,Germany, where i am not associated with any group at present and self-learnt Julia,GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO.** 
@@ -25,7 +26,7 @@
 - Past:C++(dropped 2021) | Now: Bash, Awk, Python, Julia, GO, RUST.
 - Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
-- HPC/Database: SQlite3, PostgresSQL, PBS, SLURM, RedHat(Fedora).
+- HPC/Database: SQlite3, PostgresSQL, PBS, SLURM, Fedora.
 - Web Develpoment: Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx. 
 - Golang, RUST please see the last commit message for the final release.
 - [Glimpse of topic sorted repositories](https://github.com/codecreatede/codecreatede/blob/main/topicsorted.md)
