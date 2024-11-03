@@ -28,5 +28,3 @@
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - HPC/Database: SQlite3, PostgresSQL, PBS, SLURM, Fedora.
 - Web Develpoment: Shiny/ShinyExpress(Python), Streamlit, Django, HUGO, Flask, HTMx. 
-- Golang, RUST please see the last commit message for the final release.
-- [Glimpse of topic sorted repositories](https://github.com/codecreatede/codecreatede/blob/main/topicsorted.md)
