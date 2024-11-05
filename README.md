@@ -2,12 +2,11 @@
 - I would like to introduce myself as a person, working across bioinformatics, machine and deep learning, devop and system management. 
 - I have lead all the bio-informatics projects till now without any support, and previously wrote code using C++, BASH, R, Awk, Ruby, Python, Julia, GO. 
 - Since 2024, i have been actively coding in BASH, Awk, Python, Julia, GO, RUST, covering all aspects from bioinformatics, data analytics, deep learning to system programming.   
-- I have played a active role in development of the computing cluster and established and managed computing clusters. I am well versed with the github actions and also integration of several devops tools, implementing new code approaches and also solving requirements limitations. 
-- I actively lead a continuous phase of learning and code writing from devops to bioinformatics analysis and machine and deep learning.  
+- I have played a active role in development of the computing cluster and established and managed computing clusters. I am well versed with the github actions and also integration of system management, implementing and developing new approaches and also solving requirements limitations. 
 - My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - Open to Scientist | Researcher | Specialist | System Administrator. [Curriculum Vitae/Past Employers References](https://github.com/codecreatede/codecreatede/blob/main/Curriculum_Vitae_Gaurav_Sablok_2024.pdf) 
-- I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/). 
+- I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 - I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorical/numerical association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know.
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whom not i should work or go around.  
