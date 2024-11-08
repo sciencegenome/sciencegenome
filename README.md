@@ -1,6 +1,6 @@
 **Brief Introduction:**
 - I would like to introduce myself as a person, working across bioinformatics, machine and deep learning, devop and system management. 
-- I have lead all the bio-informatics projects till now without any support, and previously wrote code using C++, BASH, R, Awk, Ruby, Python, Julia, GO. 
+- I have lead all the bio-informatics projects till now without any support, and previously wrote code using C++, BASH, R, Awk, Python, GO. 
 - Since 2024, i have been actively coding in BASH, Awk, Python, GO, RUST, covering all aspects from bioinformatics, data analysis, deep learning to system programming.   
 - I have played a active role in development of the computing cluster and established and managed computing clusters. I am well versed with the github actions and also integration of system management, implementing and developing new approaches and also solving requirements limitations. 
 - My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
@@ -12,7 +12,7 @@
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whom not i should work or go around.  
 
 **Work Areas/Employment: Bioinformatics | Deep Learning | System Administration**
-- 2024-: **Universitat Potsdam,Germany, where i am not associated with any group at present and self-learnt Julia,GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO.** 
+- 2024-: **Universitat Potsdam,Germany, where i am not associated with any group at present and self-learnt GO, RUST benchmarked PacBioHifi and coded Python, Ruby, Julia, GO.** 
 - 2021-2023: Machine and Deep learning, Devops and self-learnt Python, Web and Application development. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I conducted pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
@@ -22,7 +22,7 @@
 
 **Language Stack:** 
 - All code and ideas concieved and written by me unless specified. 
-- Past:C++(dropped 2021) | Now: Bash, Awk, Python, Julia, GO, RUST.
+- Past:C++(dropped 2021) | Present: Bash, Awk, Python, GO, RUST.
 - Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - HPC/Database: SQlite3, PostgresSQL, PBS, SLURM, Fedora.
