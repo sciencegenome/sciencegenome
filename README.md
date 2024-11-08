@@ -1,7 +1,7 @@
 **Brief Introduction:**
 - I would like to introduce myself as a person, working across bioinformatics, machine and deep learning, devop and system management. 
 - I have lead all the bio-informatics projects till now without any support, and previously wrote code using C++, BASH, R, Awk, Ruby, Python, Julia, GO. 
-- Since 2024, i have been actively coding in BASH, Awk, Python, Julia, GO, RUST, covering all aspects from bioinformatics, data analytics, deep learning to system programming.   
+- Since 2024, i have been actively coding in BASH, Awk, Python, GO, RUST, covering all aspects from bioinformatics, data analysis, deep learning to system programming.   
 - I have played a active role in development of the computing cluster and established and managed computing clusters. I am well versed with the github actions and also integration of system management, implementing and developing new approaches and also solving requirements limitations. 
 - My wide skill set and extensive experience make me a strong candidate, who can play a variety of role across the selected position. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
