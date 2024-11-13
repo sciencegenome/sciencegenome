@@ -1,5 +1,5 @@
 **Brief Introduction:**
-- I accept Scientist | Researcher | Specialist | System Administrator. [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) 
+- I accept Academics | Scientist | Researcher | Specialist | System Administrator | Bioinformatician. [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) 
 - My abilities span across bioinformatics, machine and deep learning, and computing system management. Lead data analyst/bioinformatician in all the workplaces. 
 - From 2024 onwards, code stack  reduced to BASH, Awk, Python, GO and RUST, spanning across bioinformatics, data analysis, deep learning to system programming. 
 - Lead role in development of the computing cluster and established and managed computing clusters. 
