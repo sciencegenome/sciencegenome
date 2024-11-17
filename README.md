@@ -1,11 +1,10 @@
 **Brief Introduction:**
-- I accept Academics | Scientist | Researcher | Specialist | System Administrator | Bioinformatician. 
-- [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
-- My abilities span across bioinformatics, machine and deep learning, and computing system management. Lead data analyst/bioinformatician in all the workplaces. 
-- From 2024 onwards, code stack  reduced to BASH, Awk, Python, GO and RUST, spanning across bioinformatics, data analysis, deep learning to system programming. 
+- Lead data analyst/bioinformatician in all the workplaces.  I accept Academics | Scientist | Researcher | Specialist | System Administrator | Bioinformatician. 
 - Lead role in development of the computing cluster and established and managed computing clusters. 
+- [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
+- Bioinformatics, machine and deep learning, and computing system management using BASH, Awk, Python, GO and RUST.
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
-- I dont use AI for code writing and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
+- I dont use AI as of now for code writing and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
 
 **Work Environment:**
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
