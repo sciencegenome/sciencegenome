@@ -5,7 +5,7 @@
 - [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
 - Bioinformatics, machine and deep learning, and computing system management.
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
-- Heavy use of data structures and I dont use AI as of now for code writing and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
+- Read and write data structures/algorithms and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
 
 **Work Environment:**
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
