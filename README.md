@@ -10,6 +10,7 @@
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 - I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorical/numerical association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know. 
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whom not i should work or go around.  
+- Listen, believe and talk what is sensible and makes sense. 
 
 **Employment: Bioinformatics | Deep Learning | System Administration**
 - 2024-: **Universitat Potsdam,Germany, not associated with any group at present and self-learnt GO, RUST, benchmarked PacBioHifi and coded Python, GO, RUST.** 
