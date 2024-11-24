@@ -3,9 +3,8 @@
 - Lead data analyst/bioinformatician in	all the employment. 
 - Lead the development of the computing cluster and established and managed computing clusters. 
 - [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
-- Bioinformatics, machine and deep learning, and computing system management.
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
-- Read and write data structures/algorithms and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
+- Voracious read,write and implement data structures/algorithms and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
 
 **Work Environment:**
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
@@ -24,7 +23,7 @@
 **Code Stack:** 
 - All code and ideas concieved and written by me unless specified. 
 - Code: Past:C++(dropped 2021) | Present: Bash, Awk, Python, GO, RUST.
-- Machine | Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Keras, Fastai, Markdown, MkDocs, Quatro.
+- Machine | Deep Learning: PyTorch, Tensorflow, Keras,XGBoost, Scikit-learn, Fastai, Markdown, MkDocs, Quatro.
 - System Analyst: Git,Terraform, Kubernetes, Grafana, LDAP, Systemd, Apptainer, Docker, Podman. 
 - HPC/Database: SQlite3, PostgresSQL, PBS, SLURM.
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, HUGO, Flask, HTMx, Axum Actix, Leptos. 
