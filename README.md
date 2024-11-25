@@ -4,13 +4,13 @@
 - Lead the development of the computing cluster and established and managed computing clusters. 
 - [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
-- Voracious read,write and implement data structures/algorithms and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
+- I reade, write and implement data structures/algorithms and write at [Linux community](https://linuxcommunity.io/u/gauravearn/activity). 
 
 **Work Environment:**
 - If you have listened from me then it has value to you and me and that expresses my interest and willingness and if you have listened from someone else anything fake and not confirmed with me, it has nothing to do with me. 
 - I am not responsible for anyone suggesting any personal/work preferences/establishing any sort of categorical/numerical association with anything without informing me, saying that I like that. You can ask me anytime and i will let you know. 
 - I dont entertain a single word of listening someone personal preferences/likes/dislikes and neither I accept a personal relation from previous co-authors and nor i am interested in hearing from anyone with whom or whom not i should work or go around.  
-- Listen, believe and talk what is sensible and makes sense. 
+- Listen, believe and talk what is sensible and makes sense and confirm before believing as what you speak reflect yourself. 
 
 **Employment: Bioinformatics | Deep Learning | System Administration**
 - 2024-: **Universitat Potsdam,Germany, not associated with any group at present and self-learnt GO, RUST, benchmarked PacBioHifi and coded Python, GO, RUST.** 
