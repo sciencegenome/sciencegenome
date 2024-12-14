@@ -16,7 +16,7 @@
 - 2011-2014: Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for nuclear and organelle genomes, metagenomics from fungal and bacterial both whole genome as well as 16S and ITS sequencing.
 
 **Bioinformatics | Deep Learning | System Adminstration Code Work Stack** 
-- All code and ideas concieved and written by me unless specified and heavily inspired by data structures and algorithmic implementation, no AI based.
+- All code and ideas concieved and written by me unless specified and use efficient data structures and algorithms, not AI as of now.
 - Previous: C++, Current: Bash, Awk, Python, GO, RUST.
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai, Markdown.
 - System Analyst | HPC | Database: Git, Grafana, LDAP, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
