@@ -3,7 +3,6 @@
 - Lead data bioinformatician in	all the employment. 
 - Lead the development of the computing cluster and established and managed computing clusters. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
-- I read and apply extensive data structures/algorithms. 
 
 **Employment: Bioinformatics | Deep Learning | System Administration**
 - [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
@@ -15,8 +14,9 @@
 - 2014–2016: University of Technology, Sydney, Australia, where I developed computational methods for seagrasses.
 - 2011-2014: Fondazione Edmund Mach, Italy, where I developed and analyzed bioinformatics methods for nuclear and organelle genomes, metagenomics from fungal and bacterial both whole genome as well as 16S and ITS sequencing.
 
-**Bioinformatics | Deep Learning | System Adminstration Code Work Stack** 
-- All code and ideas concieved and written by me unless specified and use efficient data structures and algorithms, not AI as of now.
+**Bioinformatics | Deep Learning | System Adminstration** 
+- All code and ideas concieved and written by me unless specified.
+- I use efficient data structures and algorithms, not AI as of now.
 - Previous: C++, Current: Bash, Awk, Python, GO, RUST.
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai, Markdown.
 - System Analyst | HPC | Database: Git, Grafana, LDAP, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
