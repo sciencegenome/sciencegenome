@@ -6,7 +6,7 @@
 
 **Employment: Bioinformatics | Deep Learning | System Administration**
 - [Curriculum Vitae | Past Employers References](https://drive.google.com/file/d/1Fl3VkXVq9eFir_DzXnavfCCZK9GyZo9a/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) | [Frontiers](https://loop.frontiersin.org/people/33293/overview)
-- 2024-: Universitat Potsdam,Germany, not associated with any group at present and self-learnt GO, RUST, benchmarked PacBioHifi, package and application development.  
+- 2024-: Universitat Potsdam,Germany, not associated with any group at present and self-learnt GO(August, 2024), RUST(December,2024), benchmarked PacBioHifi, package and application development.
 - 2021-2023: Self-learnt Python Machine/Deep learning and System Administration/DevOPS. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I completed pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
