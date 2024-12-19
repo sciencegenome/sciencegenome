@@ -13,7 +13,8 @@
 **Bioinformatics | Deep Learning | System Adminstration** 
 - All code and ideas concieved and written by me unless specified.
 - Read and write computing data structures and algorithms, and dont use AI as of now.
-- Current: Python, GO, RUST. Dropped C++ 2021. 
+- Current: Python, GO, RUST. Dropped C++ 2021
+- In terms of data analysis, i have also used JuliaLang and dropped recently.
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai, Markdown.
 - System Analyst | HPC | Database: Git, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Axum, Actix, Leptos. 
