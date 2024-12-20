@@ -13,6 +13,6 @@
 **Bioinformatics | Deep Learning | System Adminstration** 
 - All code and ideas concieved and written by me unless specified.
 - Read and write computing data structures and algorithms, and dont use AI as of now.
-- Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai, Markdown.
+- Deep Learning: PyTorch, Tensorflow/Keras, XGBoost, Scikit-learn, Fastai.
 - System Analyst | HPC | Database: Git, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
-- Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Axum, Actix, Leptos. 
+- Web Develpoment:  Markdown,Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Axum, Actix, Leptos. 
