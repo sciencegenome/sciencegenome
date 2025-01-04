@@ -4,7 +4,7 @@
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
 - Read and write computing data structures and algorithms, and i dont use AI for code writing as of now.
-- Currently using Python, GO, RUST. Previously used R, C++, Juialang also.
+- Currently using Python, GO, RUST. Previously used C++, Julialang also.
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai.
 - System HPC | Database: Markdown, Git, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Axum, Actix, Leptos.
