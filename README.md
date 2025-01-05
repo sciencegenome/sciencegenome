@@ -1,7 +1,7 @@
 - Researcher | Academics | Scientist | System Administrator | Bioinformatician.
 - [Curriculum Vitae | References](https://drive.google.com/file/d/1MljSFnaq27_ASDBsA9y3MG6intrOcGSU/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) 
 - European Union Skilled Blaue Karte. 
-- Bioinformatics | Deep Learning | System Administration.
+- Algorithmic Bioinformatics, Data Analysis, Software Endorsement, Deep Learning, System Administration.
 - Lead data analyst/bioinformatician in	all the employment.
 - Lead the development/establishment and management of computing clusters. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
