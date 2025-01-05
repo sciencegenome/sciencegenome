@@ -8,7 +8,7 @@
 - Read and write computing data structures and algorithms, and i dont use AI for code writing as of now.
 - Currently using Python, GO, RUST. Previously used C++, Julialang also.
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai.
-- System HPC | Database: Markdown, Git, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
+- System HPC | Database: Markdown, Git, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM, Typst
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Axum, Actix, Leptos.
 - 2023-2024: Universitat Potsdam,Germany, [benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST and System Programming (August-December,2024), 
 - 2021-2023: Self-learnt Python Machine/Deep learning. 
