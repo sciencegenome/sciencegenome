@@ -10,7 +10,7 @@
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai.
 - System HPC | Database: Markdown, Typst, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Axum, Actix, Leptos.
-- 2023-2024: Universitat Potsdam,Germany, [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST and System Programming (August-December,2024). 
+- 2023-2024: Universitat Potsdam,Germany, [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST. 
 - 2021-2023: Self-learnt Python Machine/Deep learning. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I completed pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
