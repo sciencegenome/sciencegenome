@@ -1,17 +1,16 @@
 - Researcher | Academics | Scientist | System Administrator | Bioinformatician.
 - [Curriculum Vitae | References](https://drive.google.com/file/d/1MljSFnaq27_ASDBsA9y3MG6intrOcGSU/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) 
 - European Union Skilled Blaue Karte. 
-- Algorithmic Bioinformatics, Data Analysis, Software Endorsement, Deep Learning, System Administration.
-- Lead data analyst/bioinformatician in	all the employment.
-- Lead the development/establishment and management of computing clusters. 
+- Algorithmic Bioinformatics, Data Analysis, Deep Learning, System Administration.
+- Read and write computing data structures and algorithms, and i dont use AI for code writing as of now.
+- Lead data analyst/bioinformatician, developed, establishment and managed computing clusters in	all the employment. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
-- Read and write computing data structures and algorithms, and i dont use AI for code writing as of now.
-- Previously used C++ mainly, some Julialang also. Currently using Python, GO, RUST. 
+- Proragmming: Previously used C++ mainly, some Julialang also. Currently using Python, GO, RUST. 
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai.
 - System HPC | Database: Markdown, Typst, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Axum, Actix, Leptos.
-- 2023-2024: Universitat Potsdam,Germany, [benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST and System Programming (August-December,2024), 
+- 2023-2024: Universitat Potsdam,Germany, [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST and System Programming (August-December,2024). 
 - 2021-2023: Self-learnt Python Machine/Deep learning. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I completed pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
