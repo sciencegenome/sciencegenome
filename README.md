@@ -7,7 +7,7 @@
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
 - Proragmming: Previously used C++ mainly.Currently using Python, GO, RUST. 
-- Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn, Fastai.
+- Deep Learning: PyTorch, Tensorflow, XGBoost, Scikit-learn.
 - System HPC | Database: Markdown, Typst, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - Web Develpoment: Streamlit, Django, Flask, HUGO, HTMx, Rocket, Actix, Leptos.
 - 2023-2024: Universitat Potsdam,Germany, I [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), GO and RUST including GraphQL,Web-RUST. 
