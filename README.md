@@ -6,12 +6,12 @@
 - Lead data analyst/bioinformatician, developed, establishment and managed computing clusters in	all the employment. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
-- Proragmming: Previously used C++ mainly, some Julialang also. Currently using Python, GO, RUST. 
+- Proragmming: Previously used C++ mainly.Currently using Python, GO, RUST. 
 - Deep Learning: PyTorch, Tensorflow, Keras, XGBoost, Scikit-learn, Fastai.
 - System HPC | Database: Markdown, Typst, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
-- Web Develpoment: Shiny/ShinyExpress, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Axum, Actix, Leptos.
-- 2023-2024: Universitat Potsdam,Germany, [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), self-learnt GO and RUST including GraphQL,Web-RUST. 
-- 2021-2023: Self-learnt Python Machine/Deep learning. 
+- Web Develpoment: Streamlit, Django, Flask, HUGO, HTMx, Rocket, Actix, Leptos.
+- 2023-2024: Universitat Potsdam,Germany, I [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), GO and RUST including GraphQL,Web-RUST. 
+- 2021-2023: Python Machine/Deep learning. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
 - 2017-2021: Finnish Museum of Natural History, Finland, where I completed pacbio sequencing, assembly, annotations, organelle genomes and evolutionary/phylogenomic/comparative genomics approaches of lower plants *Coleochaete orbicularis*, *Blasia pusilla*, *Chaetospiridium orbicularis*, *Polytrichum commune*, *Mallomonas*, and *Cryptomonas*. Additionally, I worked for collaboration with Edinburgh UK, to analyse the PAFTOL species and the chloroplast genomes of the *Ambrosia* clade from Norway.
 - 2016-2017: University of Connecticut, USA, where I analyzed the Douglas fir genome from genome annotation to the phylogenomics.
