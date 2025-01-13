@@ -5,7 +5,7 @@
 - All code and ideas concieved and written by me unless specified.
 - Programming: Previously used C++ mainly. Currently using Python, GO, RUST. 
 - Deep Learning/ Web: PyTorch, Tensorflow, XGBoost, Scikit-learn, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Actix, Leptos.
-- System HPC | Database: Markdown, Typst, Grafana, LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
+- System HPC | Database: LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - 2023-2024: Universitat Potsdam,Germany, I [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), GO and RUST including GraphQL,Web-RUST. 
 - 2021-2023: Python Machine/Deep learning. 
 - 2020-2021: Finnish Museum of Natural History, Finland. I completed genome assembly, annotations, markers genes, ITS, and phylogenomics of over 500 fungal species using NextSeq.
