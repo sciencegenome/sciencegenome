@@ -1,10 +1,9 @@
-- European Union Skilled Blaue Karte.
-- [Curriculum Vitae | References](https://drive.google.com/file/d/1MljSFnaq27_ASDBsA9y3MG6intrOcGSU/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) 
+- European Union Skilled Blaue Karte. [Curriculum Vitae](https://drive.google.com/file/d/1MljSFnaq27_ASDBsA9y3MG6intrOcGSU/view?usp=sharing) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=36633064300) | [Web of Science](https://www.webofscience.com/wos/author/record/1149035) 
 - Lead data analyst/bioinformatician, developed, establishment and managed computing clusters in	all the employment. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
-- Programming: Previously used C++ mainly. Currently using Python, GO, RUST. 
-- Deep Learning/ Web: PyTorch, Tensorflow, XGBoost, Scikit-learn, Streamlit, Django, Flask, HUGO, HTMx, Rocket, Actix, Leptos.
+- Programming: Primarly C++. Currently: Python, GO, RUST. 
+- Deep Learning and Web: PyTorch, Tensorflow, XGBoost, Scikit-learn, Streamlit, Django, Flask, HTMx, Rocket, Actix, Leptos.
 - System HPC | Database: LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - 2023-2024: Universitat Potsdam,Germany, I [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), GO and RUST including GraphQL,Web-RUST. 
 - 2021-2023: Python Machine/Deep learning. 
