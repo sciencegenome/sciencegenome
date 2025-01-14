@@ -2,7 +2,7 @@
 - Lead data analyst/bioinformatician, developed, establishment and managed computing clusters in	all the employment. 
 - Extremely collaborative,communicative, approachable, motivated, solution oriented, responsive, and initiative taker.
 - All code and ideas concieved and written by me unless specified.
-- Programming: Primarly C++. Currently: Python, GO, RUST. 
+- Programming: C++, Python, RUST. 
 - Deep Learning and Web: PyTorch, Tensorflow, XGBoost, Scikit-learn, Streamlit, Django, Flask, HTMx, Rocket, Actix, Leptos.
 - System HPC | Database: LDAP, Bash, Systemd, Apptainer, Docker, SQlite3, PostgresSQL, SLURM.
 - 2023-2024: Universitat Potsdam,Germany, I [Benchmarked PacBioHifi](https://github.com/applicativesystem/genomeassembly-pacbiohifi), GO and RUST including GraphQL,Web-RUST. 
