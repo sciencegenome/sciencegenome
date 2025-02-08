@@ -1,5 +1,5 @@
-- European Union Skilled Blaue Karte. [Curriculum Vitae](https://drive.google.com/file/d/1Pg13hLKBHbS2ji1NkIIHZsIkjs9WLtY1/view?usp=sharing) 
+- European Union Skilled Blaue Karte. [Curriculum Vitae](https://drive.google.com/file/d/1Rnj_GXltJSkg-o5rS_yQrXEQiklbqWqT/view?usp=sharing) 
 - Lead data analyst/bioinformatician, developed, establishment and managed computing clusters in	all the employment. All code and ideas concieved and written by me unless specified and dont use language models for algorithm and code.
-- Algorithmic Bioinformatics, Deep Learning and System Administration.
+- Python, RUST, Bash, SQL, SLURM, PyTorch, Tensorflow, XGBoost, Scikit-learn.
 
 
